@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jsyl.NJKYD-TC</string>
+				<string>com.jsyl.CentreOfOperation/string>
 				<key>bundle-version</key>
-				<string>1.3.1</string>
+				<string>1..1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>NJKYD_TC_Official</string>
+				<string>一体化 github版</string>
 			</dict>
 		</dict>
 	</array>
